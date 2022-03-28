@@ -1,0 +1,21 @@
+.solar-calendar {
+	max-width: 50%;
+	height: 250px;
+	margin: auto;
+}
+.calendar-todo-list {
+	height: 100%;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.solar-calendar .rs-calendar-panel .rs-calendar-table-cell-day {
+	display: none;
+}
+.dark-yellow {
+	background-color: #ffc902;
+}
+.yellow {
+	background-color: #fce485;
+}
